@@ -1,0 +1,1 @@
+This is a desktop-based application developed in C# using the .NET Framework. It is designed to streamline the daily operations of a bakery, from managing product inventory to processing customer orders and generating bills.
